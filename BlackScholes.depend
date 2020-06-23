@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1592883658 source:c:\users\tong\desktop\c++codes\blackscholes\main.cpp
+	<iostream>
+	"BlackScholes.h"
+	<cmath>
+	<algorithm>
+	<vector>
+	<iomanip>
+
+1592845118 c:\users\tong\desktop\c++codes\blackscholes\blackscholes.h
+	<vector>
+	<iostream>
+	<bits/stl_vector.h>
+
